@@ -30,10 +30,10 @@ To forecast carbon dioxide emissions in Kenya using a Linear Regression model an
 ## 🖥️ Screenshots
 
 ### 📈 Model Evaluation (R² Score, MAE)
-![Model Evaluation](images/demo_screenshot_1.png)
+![Model Evaluation]("C:\Users\KONZA-VDI\Pictures\Screenshots\Model Evaluation (R² Score, MAE).png")
 
 ### 🌍 Historical CO₂ Emissions in Kenya
-![Emission Chart](images/demo_screenshot_2.png)
+![Emission Chart]("C:\Users\KONZA-VDI\Pictures\Screenshots\Historical CO₂ Emissions in Kenya.png")
 
 ---
 
