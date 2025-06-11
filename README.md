@@ -42,6 +42,5 @@ To forecast carbon dioxide emissions in Kenya using a Linear Regression model an
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/kerama-sys/CO2-Emission-Forecast-Kenya.git
-cd CO2-Emission-Forecast-Kenya
-pip install -r requirements.txt
+git clone https://github.com/KERAMA-sys/AI-for-climate-action-SDG-13.git
+
